@@ -1,0 +1,45 @@
+Python follows BODMAS
+
+Variables must have meaningful names
+
+An expression is a combination of an operator and operations that evaluate to a value, e.g.
+
+6
+6+5
+(3 * 23) + 20
+a>b
+
+ASSIGNMENT STATEMENT is where a value of an expression is stored in a variable.
+
+#Integer operations:
+#Addition
+x + y
+
+#Subtraction
+x-y
+
+Multiplcation
+x*y
+
+Division
+x/y
+
+Integer division - returns an integer only
+x//y
+
+Modulo - Remainder of x/y
+x % y 
+
+Negate - negative value 
+-x 
+
+Absolute zero - Absolute value or magnitude of x
+abs(x)
+
+Cast - converts to an integer
+int(x)
+
+Power - x raised to the power of y
+pow(x,y)
+or
+x**y
