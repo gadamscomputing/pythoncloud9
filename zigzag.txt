@@ -43,3 +43,28 @@ Power - x raised to the power of y
 pow(x,y)
 or
 x**y
+
+
+Functions
+
+Functions are blocks of code that perform specific functions allowing to reuse these as many times as you want through your program.
+They can have no inputs or multiple inputs and no outputs or multiple outputs.
+Functions return a value. 
+ARGUMENTS are the actual values that are 
+supplied during a function call. may or may not return a value.
+
+
+Parameter
+Parameters are the placeholders that are used in defining a function. 
+ARGUMENTS are the actual values that are 
+supplied during a function call. may or may not return a value.
+
+
+sum(a,b) a and b are the parameters.
+sum(4,5) 4 and 5 are the arguments.
+
+
+
+
+
+
