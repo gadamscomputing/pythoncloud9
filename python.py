@@ -1,8 +1,8 @@
 #-------------------------------------------------------------------------------
-# Name:        module1
+# Name:        CodePractice
 # Purpose:
 #
-# Author:      gadams
+# Author:      gadamslr
 #
 # Created:     30/01/2016
 # Copyright:   (c) gadams 2016
